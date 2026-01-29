@@ -11,4 +11,4 @@ Locks a random player slot when players take damage, also has a shared mode wher
 - `/trigger reset` Reset all locked slots for all players.
 
 ## Requirements
-- Minecraft 1.21.x or higher.
+- Minecraft 1.21.2 or higher.

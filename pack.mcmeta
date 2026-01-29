@@ -1,16 +1,21 @@
 {
   "pack": {
+    "pack_format": 57,
+    "supported_formats": [
+      57,
+      95
+    ],
+    "min_format": [57],
+    "max_format": [94, 1],
     "description": {
       "text": "Death Slot",
       "extra": [
         {
-          "text": "By @Q7Sa",
+          "text": " By @Q7Sa",
           "color": "gold"
         }
       ],
       "color": "red"
-    },
-    "min_format": 88,
-    "max_format": 88
+    }
   }
 }
