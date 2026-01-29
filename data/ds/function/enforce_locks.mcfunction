@@ -1,0 +1,1 @@
+function ds:repeatitive_func/enforce_locks

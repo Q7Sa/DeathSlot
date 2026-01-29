@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "description": {
+      "text": "Death Slot",
+      "extra": [
+        {
+          "text": "By @Q7Sa",
+          "color": "gold"
+        }
+      ],
+      "color": "red"
+    },
+    "min_format": 88,
+    "max_format": 88
+  }
+}

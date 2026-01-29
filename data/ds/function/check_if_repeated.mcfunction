@@ -1,0 +1,1 @@
+$execute if score @s ds.slot$(random_num) matches 1 run function ds:randomize_slot
