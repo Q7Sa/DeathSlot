@@ -4,7 +4,6 @@ Locks a random player slot when players take damage, also has a shared mode wher
 ## Installation
 1. Download the data pack.
 2. Place the file in the `datapacks` folder of your Minecraft world.
-3. Run `/reload` in-game.
 
 ## Available Commands:
 - `/trigger share_locks` Enables/Disables locked slots sharing.
